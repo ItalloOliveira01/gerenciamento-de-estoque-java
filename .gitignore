@@ -1,0 +1,38 @@
+# Arquivos de classe compilados do Java
+*.class
+
+# Arquivos de log
+*.log
+*.log.*
+
+# Pastas de build
+build/
+target/
+out/
+dist/
+
+# Arquivos específicos de IDEs
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/
+private/
+
+# VS Code
+.vscode/
+
+# Arquivos de sistema operacional
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
