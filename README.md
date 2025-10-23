@@ -81,3 +81,11 @@ Para rodar este projeto, você precisa ter o **JDK (Java Development Kit)** inst
     ```
 
 6.  O menu do sistema será exibido no console, e você poderá interagir com ele.
+   
+
+   🧠 Autor
+Ítallo Gabriel de Oliveira Correia
+
+💼 Estudante de Análise e Desenvolvimento de Sistemas
+
+📍 Focado em Java, lógica de programação e desenvolvimento de software limpo.
