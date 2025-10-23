@@ -74,8 +74,7 @@ Para rodar este projeto, você precisa ter o **JDK (Java Development Kit)** inst
 5.  **Execute o programa:**
     ```bash
     java Exercicio10
-    ```
-
+   ```
 6.  O menu do sistema será exibido no console, e você poderá interagir com ele.
    
 
