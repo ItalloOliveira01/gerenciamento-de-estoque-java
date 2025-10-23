@@ -3,7 +3,6 @@
 Este é um projeto simples em **Java** que implementa um **sistema de gerenciamento de estoque** via console.  
 O programa permite ao usuário realizar operações **CRUD** (Criar, Ler, Atualizar e Remover) em uma lista de produtos.
 
----
 
 ## ⚙️ Funcionalidades
 
@@ -20,7 +19,6 @@ O sistema apresenta um menu interativo no console com as seguintes opções:
 
 5. 🚪 **Sair** — Encerra a aplicação de forma segura.
 
----
 
 ## 🧱 Estrutura do Código
 
@@ -45,7 +43,6 @@ Classe principal que contém:
   - `atualizarProduto()`  
   - `listarProdutos()`
 
----
 
 ## 🧰 Tecnologias Utilizadas
 
@@ -54,7 +51,6 @@ Classe principal que contém:
   - `java.util.ArrayList` — Estrutura dinâmica de armazenamento dos produtos.
   - `java.util.Scanner` — Captura de entrada do usuário via console.
 
----
 
 ## Como Executar
 
@@ -83,7 +79,7 @@ Para rodar este projeto, você precisa ter o **JDK (Java Development Kit)** inst
 6.  O menu do sistema será exibido no console, e você poderá interagir com ele.
    
 
-   🧠 Autor
+## 🧠 Autor
 Ítallo Gabriel de Oliveira Correia
 
 💼 Estudante de Análise e Desenvolvimento de Sistemas
